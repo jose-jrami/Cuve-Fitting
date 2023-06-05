@@ -1,0 +1,22 @@
+Install the following modules:
+
+pip install librosa
+
+pip install pandas
+
+pip install scipy
+
+pip install matplotlib
+
+pip install numpy
+
+pip install scikit-learn
+
+
+The 5th order polynomial is shown in the atached word document
+
+
+
+
+
+
